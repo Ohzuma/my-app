@@ -1,0 +1,10 @@
+{
+    "editor.mouseWheelScrollSensitivity": 0,
+    "editor.columnSelection": false,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoIndent": "advanced",
+    "editor.formatOnType": true
+}
